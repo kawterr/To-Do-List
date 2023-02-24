@@ -5,3 +5,5 @@ The user can check the to-do when it is done or delete it by clicking on the del
 
 The filled to-do list is stored in the local storage. By clicking the clear button at the top right corner of the app the list will be cleared.
 
+Deployment:
+https://grand-kataifi-ba603b.netlify.app/
